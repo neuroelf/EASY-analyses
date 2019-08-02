@@ -120,3 +120,9 @@ store it in a local file with the correct number.
 
 The code can be used to write additional functions (or classes) that
 access the ISIC archive programmatically.
+
+### EASY pilot study downloads.ipynb
+This notebook can be used to download the ISIC and annotation images
+from one study. The notebook comes preconfigured with the
+```ISIC Annotation Study - All Features``` study, ID
+```5a32cde91165975cf58a469c```.
