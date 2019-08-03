@@ -1,0 +1,63 @@
+_id,ISIC_id,feature,group
+5bf31fd31165972a676ac44a,ISIC_0046222,Pattern : Starburst,1
+5bf31fd31165972a676ac463,ISIC_0046224,Lines : Branched streaks,1
+5bf31fd71165972a676ac533,ISIC_0046240,Vessels : Linear irregular,1
+5bf31fe41165972a676ac80c,ISIC_0046294,Network : Delicate Pigment Network / Reticulation,1
+5bf31fec1165972a676ac91b,ISIC_0046316,Structureless : Blotch regular,1
+5bf31ffa1165972a676aca41,ISIC_0046338,Network : Negative pigment network,1
+5bf320041165972a676acb78,ISIC_0046355,Globules / Clods : Cobblestone pattern,1
+5bf320141165972a676acce5,ISIC_0046383,Regression structures : Peppering / Granularity,1
+5bf320261165972a676ace90,ISIC_0046416,Regression structures : Scarlike depigmentation,1
+5bf3202d1165972a676acf23,ISIC_0046428,Globules / Clods : Regular,1
+5bf3202d1165972a676acf2e,ISIC_0046429,Pattern : Homogeneous : NOS,1
+5bf320311165972a676acf97,ISIC_0046438,Regression structures : Scarlike depigmentation,1
+5bf3203d1165972a676ad22e,ISIC_0046493,Lines : Radial streaming,1
+5bf320441165972a676ad3d5,ISIC_0046529,Globules / Clods : Regular,1
+5bf320491165972a676ad491,ISIC_0046546,Pattern : Homogeneous : NOS,1
+5bf320501165972a676ad645,ISIC_0046582,Vessels : Dotted,1
+5bf320551165972a676ad6ee,ISIC_0046597,Structureless : Structureless brown (tan),1
+5bf320571165972a676ad77d,ISIC_0046609,Shiny white structures : Shiny white streaks,1
+5bf320571165972a676ad7ad,ISIC_0046613,Network : Typical pigment network / Reticulation,1
+5bf320581165972a676ad7c3,ISIC_0046615,Lines : Pseudopods,1
+5bf320591165972a676ad81e,ISIC_0046623,Structureless : Blotch irregular,1
+5bf3205b1165972a676ad87a,ISIC_0046631,Lines : Radial streaming,1
+5bf3205b1165972a676ad891,ISIC_0046633,Globules / Clods : Irregular,1
+5bf3205b1165972a676ad8aa,ISIC_0046635,Pattern : Starburst,1
+5bf3205d1165972a676ad8f6,ISIC_0046641,Shiny white structures : Shiny white streaks,1
+5bf3205d1165972a676ad928,ISIC_0046645,Globules / Clods : Irregular,1
+5bf320601165972a676ad9d5,ISIC_0046659,Dots : Irregular,1
+5bf320621165972a676ad9f8,ISIC_0046661,Vessels : Corkscrew,1
+5bf320621165972a676ada19,ISIC_0046664,Globules / Clods : Milky red,1
+5bf320641165972a676ada6a,ISIC_0046671,Vessels : Polymorphous,1
+5bf320651165972a676ada8b,ISIC_0046674,Lines : Branched streaks,1
+5bf320671165972a676adaee,ISIC_0046683,Network : Negative pigment network,1
+5bf3206d1165972a676adbb0,ISIC_0046700,Vessels : Comma,1
+5bf3207e1165972a676adda7,ISIC_0046745,Network : Typical pigment network / Reticulation,1
+5bf320901165972a676ae135,ISIC_0046820,Dots : Irregular,1
+5bf320931165972a676ae199,ISIC_0046827,Structureless : Milky red areas,1
+5bf320961165972a676ae1f3,ISIC_0046834,Vessels : Corkscrew,1
+5bf3209c1165972a676ae2c2,ISIC_0046851,Globules / Clods : Rim of brown globules,1
+5bf3209c1165972a676ae2ce,ISIC_0046852,Globules / Clods : Rim of brown globules,1
+5bf320af1165972a676ae48d,ISIC_0046884,Structureless : Blue-whitish veil,1
+5bf320af1165972a676ae4a6,ISIC_0046886,Globules / Clods : Milky red,1
+5bf320b81165972a676ae54f,ISIC_0046898,Network : Broadened pigment network / Reticulation,1
+5bf320c61165972a676ae70d,ISIC_0046932,Lines : Pseudopods,1
+5bf320c91165972a676ae74d,ISIC_0046937,Network : Delicate Pigment Network / Reticulation,1
+5bf320d51165972a676ae865,ISIC_0046958,Structureless : Structureless brown (tan),1
+5bf320e11165972a676ae92d,ISIC_0046971,Structureless : Blotch regular,1
+5bf320ec1165972a676aeaa7,ISIC_0047002,Vessels : Polymorphous,1
+5bf320f41165972a676aeb96,ISIC_0047022,Structureless : Blue-whitish veil,1
+5bf320f61165972a676aec04,ISIC_0047031,Structureless : Blotch irregular,1
+5bf320f61165972a676aec13,ISIC_0047032,Vessels : Comma,1
+589de95dd831136be37e0d4f,ISIC_0016081,Network : Broadened pigment network / Reticulation,1
+58b0a360d831137d0a388356,ISIC_0016092,Structureless : Milky red areas,1
+58b0a372d831137d0a3884a1,ISIC_0016127,Vessels : Dotted,1
+58b0a374d831137d0a3884c5,ISIC_0016131,Vessels : Linear irregular,1
+58b0a377d831137d0a388507,ISIC_0016137,Network : Atypical pigment network / Reticulation,1
+58b0a37dd831137d0a388597,ISIC_0016153,Lines : Angulated lines / Polygons / Zig-zag pattern,1
+58b0a380d831137d0a3885cd,ISIC_0016159,Globules / Clods : Cobblestone pattern,1
+59e509ddd831136981ee66ae,ISIC_0021113,Dots : Regular,1
+59e50a0dd831136981ee6cb4,ISIC_0021271,Regression structures : Peppering / Granularity,1
+59e50a98d831136981ee7d6a,ISIC_0021713,Lines : Angulated lines / Polygons / Zig-zag pattern,1
+59e50c82d831136981eeb733,ISIC_0023234,Dots : Regular,1
+59e50c8cd831136981eeb7ed,ISIC_0023252,Network : Atypical pigment network / Reticulation,1
